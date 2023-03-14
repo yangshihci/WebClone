@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 20px auto;
+}
+
+h1 {
+    margin: 3% 0;
+    font-size: 80px;
+    text-align: center;
+}
+
+.wordarea {
+    margin: 0 auto;
+}
+
+.user-input {
+    margin: 20px;
+}
+
+.test {
+    font-size: 20px;
+    padding: 1%;
+}
+
+.user-input label {
+    color: #121e27;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.user-input input {
+    font-size: 20px;
+    font-weight: 400;
+    width: 300px;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 50px;
+    margin: 20px;
+}
+
+.map {
+    margin: auto;
+}

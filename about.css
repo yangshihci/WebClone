@@ -1,0 +1,40 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.container h2 {
+    margin-top: 40px;
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+.about-section {
+    margin-top: 50px;
+}
+
+.about-section h5 {
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.1;
+}
+
+.about-section p {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.container>h2 {
+    margin-top: 50px;
+    font-family: 'Lucida Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2.3rem;
+}
+
+.container>p {
+    margin: 40px 0;
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
